@@ -1,5 +1,5 @@
-![SafetyAlignment](./SFT.png)
-### 什么是SFT（监督微调）？
+![SFT](./SFT.png)
+### 大模型应用中什么是SFT（监督微调）？
 
 #### 一、SFT的基本概念
 
